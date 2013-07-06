@@ -19,3 +19,6 @@ sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
 # Now install nodejs and npm
 sudo apt-get install -y nodejs
+
+wget raw.github.com/startup-class/dotfiles/master/.screenrc -O .screenrc
+
